@@ -33,11 +33,9 @@ Mentor - SARAVANI GOUNI
 
 ### Engaging User Experience:
 - **Display a list of posts on the homepage with titles with banner image**.
+- **Appealing and user-friendly interface with CSS, ensuring responsiveness for various devices**.
 
-## Technical Stack:
+### Technical Stack:
 - **Back-end**: Node.js for server-side functionality.
 - **Database**: Firebase Firestore for efficient data storage.
 - **Front-end**: HTML, CSS, and JavaScript 
-
-### Design & Responsiveness:
-- **Appealing and user-friendly interface with CSS, ensuring responsiveness for various devices**.
